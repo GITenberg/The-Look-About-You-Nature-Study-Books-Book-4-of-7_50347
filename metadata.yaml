@@ -1,10 +1,16 @@
 _repo: The-Look-About-You-Nature-Study-Books-Book-4-of-7_50347
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50347-h/images/cover.jpg
 creator:
   author:
     agent_name: Hoare, Thomas W.
     gutenberg_agent_id: '45767'
     url: http://www.gutenberg.org/2009/agents/45767
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50347#The-Look-About-You-Nature-Study-Books-Book-4-of-7
 gutenberg_issued: '2015-10-30'
 gutenberg_type: Text
 identifiers:
